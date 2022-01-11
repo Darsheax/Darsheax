@@ -10,7 +10,7 @@
 
 <div align="left">
      
-  ![Darsheax](https://github-readme-stats.vercel.app/api?username=Darsheax)
+  ![Darsheax](https://github-readme-stats.vercel.app/api?username=Darsheax&show_icons=true&theme=material-palenight)
   
 </div>
 
