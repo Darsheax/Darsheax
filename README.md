@@ -1,6 +1,8 @@
-🙆‍♂️ Hi, I'm Thomas
+🙆‍♂️ Hi, I'm Thomas  
+
 💼 Full stack Developer
-📍 French
+
+📍 French  
 
 
 <!---
