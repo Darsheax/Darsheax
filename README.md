@@ -8,11 +8,12 @@
 
 <h2>My stats</h2>
 
-<div align="left">
-     
-  ![Darsheax](https://github-readme-stats.vercel.app/api?username=Darsheax&show_icons=true&theme=material-palenight)
-  
-</div>
+<a href="https://github.com/Darsheax/Darsheax">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darsheax&show_icons=true&theme=material-palenight&langs_count=3" />
+</a>
+<a href="https://github.com/Darsheax/Darsheax">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Darsheax&show_icons=true&theme=material-palenight" alt="Darsheax's GitHub Stats" />
+</a>
 
 <!---
 Darsheax/Darsheax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
